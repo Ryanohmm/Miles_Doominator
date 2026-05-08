@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Miles_Doominator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca13e92e62e8d756934c25b0921905342a9caca9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Miles_Doominator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Miles_Doominator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
